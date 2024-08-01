@@ -1,0 +1,31 @@
+.user-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: rgb(209, 209, 209);
+
+  border-radius: 4px;
+}
+
+.user-form input {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.user-form button {
+  padding: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.user-form button:hover {
+  background-color: #0056b3;
+}
+
+  
