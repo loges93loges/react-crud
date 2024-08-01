@@ -1,7 +1,10 @@
 .app {
   text-align: center;
+  
 }
-
+body{
+  background: url('C:\vs code\react-crud\public\imges.webp');
+}
 .user-list {
   display: flex;
   flex-direction: column;
@@ -16,7 +19,7 @@
   width: 400px;
   padding: 10px;
   border: 1px solid #ccc;
-  background-color: rgb(66, 66, 66);
+  background-color: transparent;
 
   border-radius: 4px;
   margin: 10px 0;

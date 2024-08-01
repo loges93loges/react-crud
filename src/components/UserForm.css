@@ -5,7 +5,8 @@
   margin: 0 auto;
   padding: 10px;
   border: 1px solid #ccc;
-  background-color: rgb(209, 209, 209);
+  background-color: transparent;
+  
 
   border-radius: 4px;
 }

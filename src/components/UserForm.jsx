@@ -71,7 +71,7 @@ const UserForm = ({ onSubmit, selectedUser, setSelectedUser }) => {
         onChange={handleChange} 
         placeholder="Phone" 
         required 
-      />
+      /><br/>
       <button type="submit">{selectedUser ? 'Update User' : 'Add User'}</button><br/>
       {selectedUser && <button type="button" onClick={() => setSelectedUser(null)}>Cancel</button>}
     </form>
