@@ -3,7 +3,7 @@
   
 }
 body{
-  background: url('C:\vs code\react-crud\public\imges.webp');
+  background: url('C:\vs code\react-crud\src\imges.webp');
 }
 .user-list {
   display: flex;
